@@ -6,6 +6,20 @@ h1 {
   text-align: center;
 }
 
+.score {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.player-ships {
+  border: 2px solid black;
+}
+
+.pc-ships {
+  border: 2px solid black;
+}
+
 .container {
   width: 100%;
   height: 50px;
