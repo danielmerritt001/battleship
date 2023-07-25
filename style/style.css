@@ -39,3 +39,15 @@ h1 {
   height: 48px;
   border: 1px solid black;
 }
+
+.miss {
+  background-color: blue;
+}
+
+.hit {
+  background-color: red;
+}
+
+.ship-setup {
+  background-color: black;
+}
